@@ -1,0 +1,207 @@
+,subject,relation,object,sentence,subject_type,object_type
+0,The World Meteorological Organization,verified,record,"The World Meteorological Organization (WMO) on Tuesday verified the record, reported in the Siberian town of Verkhoyansk on 20 June last year.",ORG,NOUN_CHUNK
+1,greenhouse gases,cause,warming,"These greenhouse gases can cause further warming, and further thawing of the permafrost, in a vicious cycle known as positive feedback.",NOUN_CHUNK,NOUN_CHUNK
+2,humans,experience,catastrophic warming,"Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.",NOUN_CHUNK,NOUN_CHUNK
+3,Thwaites,dumping,50 billion tonnes,Already Thwaites is dumping 50 billion tonnes of ice into the ocean each year.,ORG,QUANTITY
+4,coming change,see,following ice jump,The coming change in status will probably see the following ice jump in speed to about 2km per year - the same as the current velocity recorded in the 80km-wide western sector.,NOUN_CHUNK,NOUN_CHUNK
+5,year ITGC project,putting,Thwaites,"Jointly funded by the US National Science Foundation and the UK's Natural Environment Research Council, the five-year ITGC project is putting Thwaites under unprecedented scrutiny.",NOUN_CHUNK,ORG
+6,teams,investigating,glacier behaviour,"Each Antarctic summer season, teams of scientists are investigating the glacier's behaviour in every way possible.",NOUN_CHUNK,NOUN_CHUNK
+7,The EU,tightened,EU restrictions,The EU has similarly tightened The EU restrictions.,ORG,NOUN_CHUNK
+8,plant,emit,more than seven million tonnes,"This plant alone will emit more than seven million tonnes of carbon dioxide every year!""Suzuki-San's point is a good one.",NOUN_CHUNK,QUANTITY
+9,Japan gas fired power stations,doing,lot,In a lot of resistance place Japan's gas-fired power stations have been doing a lot of overtime.,NOUN_CHUNK,NOUN_CHUNK
+10,Economically Japanese government,made,sense,Economically the Japanese government made sense.,NOUN_CHUNK,NOUN_CHUNK
+11,Prof Tomas Kaberger,create,financial difficulties,"Prof Tomas Kaberger, an expert on energy policy at Chalmers University in Sweden would create financial difficulties for electric power companies and then for banks and pension funds.",PERSON,NOUN_CHUNK
+12,Japan government,has,bigger ambitions,But Japan's government has much bigger ambitions than that.,NOUN_CHUNK,NOUN_CHUNK
+13,a sleek new Toyota Mirai,have,huge battery,"Unlike other electric cars, a sleek new Toyota Mirai doesn't have a huge battery under the floor.",PRODUCT,NOUN_CHUNK
+14,a sleek new Toyota Mirai,has,fuel cell,"Instead, a sleek new Toyota Mirai has a fuel cell under the bonnet, and hydrogen tanks under the back seat.",PRODUCT,NOUN_CHUNK
+15,Elon Musk,called,hydrogen cars,"Elon Musk has called hydrogen cars ""stupid"".",PERSON,NOUN_CHUNK
+16,First Minister Nicola Sturgeon,visited,the Highlands,First Minister Nicola Sturgeon visited the Highlands on Friday for an announcement on plans for a major offshore wind turbine tower factory.,PERSON,GPE
+17,Thwaites,dumping,50 billion tonnes,Already Thwaites is dumping 50 billion tonnes of ice into the ocean each year.,ORG,QUANTITY
+18,coming change,see,following ice jump,The coming change in status will probably see the following ice jump in speed to about 2km per year - the same as the current velocity recorded in the 80km-wide western sector.,NOUN_CHUNK,NOUN_CHUNK
+19,year ITGC project,putting,Thwaites,"Jointly funded by the US National Science Foundation and the UK's Natural Environment Research Council, the five-year ITGC project is putting Thwaites under unprecedented scrutiny.",NOUN_CHUNK,ORG
+20,teams,investigating,glacier behaviour,"Each Antarctic summer season, teams of scientists are investigating the glacier's behaviour in every way possible.",NOUN_CHUNK,NOUN_CHUNK
+21,The EU,tightened,EU restrictions,The EU has similarly tightened The EU restrictions.,ORG,NOUN_CHUNK
+22,plant,emit,more than seven million tonnes,"This plant alone will emit more than seven million tonnes of carbon dioxide every year!""Suzuki-San's point is a good one.",NOUN_CHUNK,QUANTITY
+23,Japan gas fired power stations,doing,lot,In a lot of resistance place Japan's gas-fired power stations have been doing a lot of overtime.,NOUN_CHUNK,NOUN_CHUNK
+24,Economically Japanese government,made,sense,Economically the Japanese government made sense.,NOUN_CHUNK,NOUN_CHUNK
+25,Prof Tomas Kaberger,create,financial difficulties,"Prof Tomas Kaberger, an expert on energy policy at Chalmers University in Sweden would create financial difficulties for electric power companies and then for banks and pension funds.",PERSON,NOUN_CHUNK
+26,Japan government,has,bigger ambitions,But Japan's government has much bigger ambitions than that.,NOUN_CHUNK,NOUN_CHUNK
+27,a sleek new Toyota Mirai,have,huge battery,"Unlike other electric cars, a sleek new Toyota Mirai doesn't have a huge battery under the floor.",PRODUCT,NOUN_CHUNK
+28,a sleek new Toyota Mirai,has,fuel cell,"Instead, a sleek new Toyota Mirai has a fuel cell under the bonnet, and hydrogen tanks under the back seat.",PRODUCT,NOUN_CHUNK
+29,Elon Musk,called,hydrogen cars,"Elon Musk has called hydrogen cars ""stupid"".",PERSON,NOUN_CHUNK
+30,First Minister Nicola Sturgeon,visited,the Highlands,First Minister Nicola Sturgeon visited the Highlands on Friday for an announcement on plans for a major offshore wind turbine tower factory.,PERSON,GPE
+31,UK,has,relatively ambitious emissions reduction targets,"UK, for example, has this relatively ambitious emissions reduction targets",GPE,NOUN_CHUNK
+32,countries,given,ways,The Covid-19 pandemic was given as an example for how countries can find ways to work together.,NOUN_CHUNK,NOUN_CHUNK
+33,Post news website,called,2070 pledge,"The First Post news website called the 2070 pledge a ""bold decision... without capitulating to the uncalled for bullying by the West"".",NOUN_CHUNK,NOUN_CHUNK
+34,political economic crisis,been,shadow,"But since the pandemic, there's been a rise in poverty and the political and economic crisis is casting a shadow over Brazil.",NOUN_CHUNK,NOUN_CHUNK
+35,People,have,immediate concerns,People have more immediate concerns.,NOUN_CHUNK,NOUN_CHUNK
+36,Russia,seen,Russia worst droughts,"Russia has seen one Russia worst droughts in decades this year, resulting in severe water shortages and electricity blackouts.",GPE,NOUN_CHUNK
+37,sanctions,exacerbated,problems,US sanctions and unsustainable domestic policies have only exacerbated such problems.,NOUN_CHUNK,NOUN_CHUNK
+38,Climate activists,sounded,alarm,"Climate activists, especially in the oil-producing Niger Delta region, have long sounded the alarm about the impact of oil drilling and gas flaring but there is little sign of any action from the government and the international oil firms.",NOUN_CHUNK,NOUN_CHUNK
+39,Environmental campaign group,says,illegal logging,Environmental campaign group Greenpeace says illegal logging - by both large and small companies - is leading to deforestation.,NOUN_CHUNK,NOUN_CHUNK
+40,threats,include,small scale subsistence agriculture,"Other threats include small-scale subsistence agriculture, clearing for charcoal and fuel, urban expansion and mining.",NOUN_CHUNK,NOUN_CHUNK
+41,President Biden,had,one in Rome on Sunday,President Biden also had one in Rome on Sunday.,PERSON,CARDINAL
+42,Private jets,produce,significantly emissions,Private jets generally produce significantly more emissions per passenger than commercial flights.,NOUN_CHUNK,NOUN_CHUNK
+43,US President Joe Biden,hosted,virtual climate summit,"In April, US President Joe Biden hosted a virtual climate summit for world leaders, at which some commitments were made.",PERSON,NOUN_CHUNK
+44,humans,experience,catastrophic warming,"Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.",NOUN_CHUNK,NOUN_CHUNK
+45,Climate change,has,different effects,Climate change has different effects in different areas of the world.,NOUN_CHUNK,NOUN_CHUNK
+46,Multiple independent teams,reached,result,Multiple independent teams of scientists have reached the same result - a spike in temperatures coinciding with the onset of the industrial era.,NOUN_CHUNK,NOUN_CHUNK
+47,Scientists,reconstruct,temperature fluctuations,Scientists can reconstruct temperature fluctuations even further back in time.,NOUN_CHUNK,NOUN_CHUNK
+48,Tree rings,record,signature,"Tree rings, ice cores, lake sediments and corals all record a signature of the past climate.",NOUN_CHUNK,NOUN_CHUNK
+49,models,explain,increases,Only when human factors are introduced can the models explain increases in temperature.,NOUN_CHUNK,NOUN_CHUNK
+50,groups,cast,doubt,"For many years, groups of so-called climate ""sceptics"" have cast doubt on the scientific basis of global warming.",NOUN_CHUNK,NOUN_CHUNK
+51,bowl,produce,climate warming greenhouse gases,Does a bowl of rice produce more climate warming greenhouse gases than a plate of chips?,NOUN_CHUNK,NOUN_CHUNK
+52,food,is,huge differences,"Knowing how and where your food is produced is also important, as the same food can have huge differences in environmental impact.",NOUN_CHUNK,NOUN_CHUNK
+53,Chocolate,produce,relatively high greenhouse gases,Chocolate and coffee originating from deforested rainforest produce relatively high greenhouse gases.,NOUN_CHUNK,NOUN_CHUNK
+54,climate friendly meat options,produce,greenhouse gases,"Even the most climate-friendly meat options still produce more greenhouse gases than vegetarian protein sources, like beans or nuts.",NOUN_CHUNK,NOUN_CHUNK
+55,Joseph Poore,assessed,effect,"University of Oxford researcher Joseph Poore, and Thomas Nemecek of the Agroecology and Environment Research Division in Zurich, Switzerland assessed the effect of these foods on climate-warming greenhouse gas emissions and the amount of land and fresh water used across all stages of University of Oxford researcher Joseph Poore, and Thomas Nemecek of the Agroecology and Environment Research Division in Zurich, Switzerland production, including processing, packaging, and transportation, but excluding the cooking process.",PERSON,NOUN_CHUNK
+56,President Putin,dismissed,risks,Until recently President Putin dismissed the risks posed by rising temperatures.,PERSON,NOUN_CHUNK
+57,Country,But,steel,"But if Country A then imports steel from Country B,",NOUN_CHUNK,NOUN_CHUNK
+58,Plants,absorb,up to a third,Plants and trees absorb up to a third of our CO2 emissions from the atmosphere each year.,NOUN_CHUNK,CARDINAL
+59,urban areas,recording,massive reductions,"In a short space of time, urban areas were recording massive reductions in a range of pollutants associated with internal combustion engines.",NOUN_CHUNK,NOUN_CHUNK
+60,Data,shows,marked reductions,Data collected by the UK's National Centre for Atmospheric Science shows marked reductions in nitrogen dioxide (NO2) and in particulate matter (PM2.5) across 10 cities.,NOUN_CHUNK,NOUN_CHUNK
+61,Lake Oroville,plays,key role,Lake Oroville plays a key role in northern California's complex water delivery system.,GPE,NOUN_CHUNK
+62,river systems,replenished by,reservoir,"Traditionally, Lake Oroville was replenished by meltwater from a thawing snowpack in surrounding mountains, whose river systems fed the reservoir.",NOUN_CHUNK,NOUN_CHUNK
+63,reservoir,reached,capacity,"the reservoir had reached capacity in February, rather than the middle of the year, as usually happened.",NOUN_CHUNK,NOUN_CHUNK
+64,local traders,noticed,visible drop,"As news of the low waters spread, local traders noticed a visible drop in tourist numbers.",NOUN_CHUNK,NOUN_CHUNK
+65,Areas,include,water supplies,"Areas of concern include water supplies, health, food security, droughts and floods, biodiversity.",NOUN_CHUNK,NOUN_CHUNK
+66,The World Meteorological Organization,verified,record,"The World Meteorological Organization (WMO) on Tuesday verified the record, reported in the Siberian town of Verkhoyansk on 20 June last year.",ORG,NOUN_CHUNK
+67,greenhouse gases,cause,warming,"These greenhouse gases can cause further warming, and further thawing of the permafrost, in a vicious cycle known as positive feedback.",NOUN_CHUNK,NOUN_CHUNK
+68,humans,experience,catastrophic warming,"Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.",NOUN_CHUNK,NOUN_CHUNK
+69,Thwaites,dumping,50 billion tonnes,Already Thwaites is dumping 50 billion tonnes of ice into the ocean each year.,ORG,QUANTITY
+70,coming change,see,following ice jump,The coming change in status will probably see the following ice jump in speed to about 2km per year - the same as the current velocity recorded in the 80km-wide western sector.,NOUN_CHUNK,NOUN_CHUNK
+71,year ITGC project,putting,Thwaites,"Jointly funded by the US National Science Foundation and the UK's Natural Environment Research Council, the five-year ITGC project is putting Thwaites under unprecedented scrutiny.",NOUN_CHUNK,ORG
+72,teams,investigating,glacier behaviour,"Each Antarctic summer season, teams of scientists are investigating the glacier's behaviour in every way possible.",NOUN_CHUNK,NOUN_CHUNK
+73,The EU,tightened,EU restrictions,The EU has similarly tightened The EU restrictions.,ORG,NOUN_CHUNK
+74,plant,emit,more than seven million tonnes,"This plant alone will emit more than seven million tonnes of carbon dioxide every year!""Suzuki-San's point is a good one.",NOUN_CHUNK,QUANTITY
+75,Japan gas fired power stations,doing,lot,In a lot of resistance place Japan's gas-fired power stations have been doing a lot of overtime.,NOUN_CHUNK,NOUN_CHUNK
+76,Economically Japanese government,made,sense,Economically the Japanese government made sense.,NOUN_CHUNK,NOUN_CHUNK
+77,Prof Tomas Kaberger,create,financial difficulties,"Prof Tomas Kaberger, an expert on energy policy at Chalmers University in Sweden would create financial difficulties for electric power companies and then for banks and pension funds.",PERSON,NOUN_CHUNK
+78,Japan government,has,bigger ambitions,But Japan's government has much bigger ambitions than that.,NOUN_CHUNK,NOUN_CHUNK
+79,a sleek new Toyota Mirai,have,huge battery,"Unlike other electric cars, a sleek new Toyota Mirai doesn't have a huge battery under the floor.",PRODUCT,NOUN_CHUNK
+80,a sleek new Toyota Mirai,has,fuel cell,"Instead, a sleek new Toyota Mirai has a fuel cell under the bonnet, and hydrogen tanks under the back seat.",PRODUCT,NOUN_CHUNK
+81,Elon Musk,called,hydrogen cars,"Elon Musk has called hydrogen cars ""stupid"".",PERSON,NOUN_CHUNK
+82,First Minister Nicola Sturgeon,visited,the Highlands,First Minister Nicola Sturgeon visited the Highlands on Friday for an announcement on plans for a major offshore wind turbine tower factory.,PERSON,GPE
+83,Thwaites,dumping,50 billion tonnes,Already Thwaites is dumping 50 billion tonnes of ice into the ocean each year.,ORG,QUANTITY
+84,coming change,see,following ice jump,The coming change in status will probably see the following ice jump in speed to about 2km per year - the same as the current velocity recorded in the 80km-wide western sector.,NOUN_CHUNK,NOUN_CHUNK
+85,year ITGC project,putting,Thwaites,"Jointly funded by the US National Science Foundation and the UK's Natural Environment Research Council, the five-year ITGC project is putting Thwaites under unprecedented scrutiny.",NOUN_CHUNK,ORG
+86,teams,investigating,glacier behaviour,"Each Antarctic summer season, teams of scientists are investigating the glacier's behaviour in every way possible.",NOUN_CHUNK,NOUN_CHUNK
+87,The EU,tightened,EU restrictions,The EU has similarly tightened The EU restrictions.,ORG,NOUN_CHUNK
+88,plant,emit,more than seven million tonnes,"This plant alone will emit more than seven million tonnes of carbon dioxide every year!""Suzuki-San's point is a good one.",NOUN_CHUNK,QUANTITY
+89,Japan gas fired power stations,doing,lot,In a lot of resistance place Japan's gas-fired power stations have been doing a lot of overtime.,NOUN_CHUNK,NOUN_CHUNK
+90,Economically Japanese government,made,sense,Economically the Japanese government made sense.,NOUN_CHUNK,NOUN_CHUNK
+91,Prof Tomas Kaberger,create,financial difficulties,"Prof Tomas Kaberger, an expert on energy policy at Chalmers University in Sweden would create financial difficulties for electric power companies and then for banks and pension funds.",PERSON,NOUN_CHUNK
+92,Japan government,has,bigger ambitions,But Japan's government has much bigger ambitions than that.,NOUN_CHUNK,NOUN_CHUNK
+93,a sleek new Toyota Mirai,have,huge battery,"Unlike other electric cars, a sleek new Toyota Mirai doesn't have a huge battery under the floor.",PRODUCT,NOUN_CHUNK
+94,a sleek new Toyota Mirai,has,fuel cell,"Instead, a sleek new Toyota Mirai has a fuel cell under the bonnet, and hydrogen tanks under the back seat.",PRODUCT,NOUN_CHUNK
+95,Elon Musk,called,hydrogen cars,"Elon Musk has called hydrogen cars ""stupid"".",PERSON,NOUN_CHUNK
+96,First Minister Nicola Sturgeon,visited,the Highlands,First Minister Nicola Sturgeon visited the Highlands on Friday for an announcement on plans for a major offshore wind turbine tower factory.,PERSON,GPE
+97,UK,has,relatively ambitious emissions reduction targets,"UK, for example, has this relatively ambitious emissions reduction targets",GPE,NOUN_CHUNK
+98,countries,given,ways,The Covid-19 pandemic was given as an example for how countries can find ways to work together.,NOUN_CHUNK,NOUN_CHUNK
+99,Post news website,called,2070 pledge,"The First Post news website called the 2070 pledge a ""bold decision... without capitulating to the uncalled for bullying by the West"".",NOUN_CHUNK,NOUN_CHUNK
+100,political economic crisis,been,shadow,"But since the pandemic, there's been a rise in poverty and the political and economic crisis is casting a shadow over Brazil.",NOUN_CHUNK,NOUN_CHUNK
+101,People,have,immediate concerns,People have more immediate concerns.,NOUN_CHUNK,NOUN_CHUNK
+102,Russia,seen,Russia worst droughts,"Russia has seen one Russia worst droughts in decades this year, resulting in severe water shortages and electricity blackouts.",GPE,NOUN_CHUNK
+103,sanctions,exacerbated,problems,US sanctions and unsustainable domestic policies have only exacerbated such problems.,NOUN_CHUNK,NOUN_CHUNK
+104,Climate activists,sounded,alarm,"Climate activists, especially in the oil-producing Niger Delta region, have long sounded the alarm about the impact of oil drilling and gas flaring but there is little sign of any action from the government and the international oil firms.",NOUN_CHUNK,NOUN_CHUNK
+105,Environmental campaign group,says,illegal logging,Environmental campaign group Greenpeace says illegal logging - by both large and small companies - is leading to deforestation.,NOUN_CHUNK,NOUN_CHUNK
+106,threats,include,small scale subsistence agriculture,"Other threats include small-scale subsistence agriculture, clearing for charcoal and fuel, urban expansion and mining.",NOUN_CHUNK,NOUN_CHUNK
+107,President Biden,had,one in Rome on Sunday,President Biden also had one in Rome on Sunday.,PERSON,CARDINAL
+108,Private jets,produce,significantly emissions,Private jets generally produce significantly more emissions per passenger than commercial flights.,NOUN_CHUNK,NOUN_CHUNK
+109,US President Joe Biden,hosted,virtual climate summit,"In April, US President Joe Biden hosted a virtual climate summit for world leaders, at which some commitments were made.",PERSON,NOUN_CHUNK
+110,humans,experience,catastrophic warming,"Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.",NOUN_CHUNK,NOUN_CHUNK
+111,Climate change,has,different effects,Climate change has different effects in different areas of the world.,NOUN_CHUNK,NOUN_CHUNK
+112,Multiple independent teams,reached,result,Multiple independent teams of scientists have reached the same result - a spike in temperatures coinciding with the onset of the industrial era.,NOUN_CHUNK,NOUN_CHUNK
+113,Scientists,reconstruct,temperature fluctuations,Scientists can reconstruct temperature fluctuations even further back in time.,NOUN_CHUNK,NOUN_CHUNK
+114,Tree rings,record,signature,"Tree rings, ice cores, lake sediments and corals all record a signature of the past climate.",NOUN_CHUNK,NOUN_CHUNK
+115,models,explain,increases,Only when human factors are introduced can the models explain increases in temperature.,NOUN_CHUNK,NOUN_CHUNK
+116,groups,cast,doubt,"For many years, groups of so-called climate ""sceptics"" have cast doubt on the scientific basis of global warming.",NOUN_CHUNK,NOUN_CHUNK
+117,bowl,produce,climate warming greenhouse gases,Does a bowl of rice produce more climate warming greenhouse gases than a plate of chips?,NOUN_CHUNK,NOUN_CHUNK
+118,food,is,huge differences,"Knowing how and where your food is produced is also important, as the same food can have huge differences in environmental impact.",NOUN_CHUNK,NOUN_CHUNK
+119,Chocolate,produce,relatively high greenhouse gases,Chocolate and coffee originating from deforested rainforest produce relatively high greenhouse gases.,NOUN_CHUNK,NOUN_CHUNK
+120,climate friendly meat options,produce,greenhouse gases,"Even the most climate-friendly meat options still produce more greenhouse gases than vegetarian protein sources, like beans or nuts.",NOUN_CHUNK,NOUN_CHUNK
+121,Joseph Poore,assessed,effect,"University of Oxford researcher Joseph Poore, and Thomas Nemecek of the Agroecology and Environment Research Division in Zurich, Switzerland assessed the effect of these foods on climate-warming greenhouse gas emissions and the amount of land and fresh water used across all stages of University of Oxford researcher Joseph Poore, and Thomas Nemecek of the Agroecology and Environment Research Division in Zurich, Switzerland production, including processing, packaging, and transportation, but excluding the cooking process.",PERSON,NOUN_CHUNK
+122,President Putin,dismissed,risks,Until recently President Putin dismissed the risks posed by rising temperatures.,PERSON,NOUN_CHUNK
+123,Country,But,steel,"But if Country A then imports steel from Country B,",NOUN_CHUNK,NOUN_CHUNK
+124,Plants,absorb,up to a third,Plants and trees absorb up to a third of our CO2 emissions from the atmosphere each year.,NOUN_CHUNK,CARDINAL
+125,urban areas,recording,massive reductions,"In a short space of time, urban areas were recording massive reductions in a range of pollutants associated with internal combustion engines.",NOUN_CHUNK,NOUN_CHUNK
+126,Data,shows,marked reductions,Data collected by the UK's National Centre for Atmospheric Science shows marked reductions in nitrogen dioxide (NO2) and in particulate matter (PM2.5) across 10 cities.,NOUN_CHUNK,NOUN_CHUNK
+127,Lake Oroville,plays,key role,Lake Oroville plays a key role in northern California's complex water delivery system.,GPE,NOUN_CHUNK
+128,river systems,replenished by,reservoir,"Traditionally, Lake Oroville was replenished by meltwater from a thawing snowpack in surrounding mountains, whose river systems fed the reservoir.",NOUN_CHUNK,NOUN_CHUNK
+129,reservoir,reached,capacity,"the reservoir had reached capacity in February, rather than the middle of the year, as usually happened.",NOUN_CHUNK,NOUN_CHUNK
+130,local traders,noticed,visible drop,"As news of the low waters spread, local traders noticed a visible drop in tourist numbers.",NOUN_CHUNK,NOUN_CHUNK
+131,Areas,include,water supplies,"Areas of concern include water supplies, health, food security, droughts and floods, biodiversity.",NOUN_CHUNK,NOUN_CHUNK
+132,17-year-old Ms Sharma,made,history,At that moment 17-year-old Ms Sharma and the seven other teenagers involved in Anjali Sharma case had made history.,PERSON,NOUN_CHUNK
+133,Sussan Ley,approved,extension,"Yet in September Sussan Ley approved the extension of the Vickery coal mine, as well as three others since then.",PERSON,NOUN_CHUNK
+134,Sister Arthur,spent,lifetime,Sister Arthur has spent a lifetime working with young people.,PERSON,NOUN_CHUNK
+135,Sister Arthur,take,convincing,Sister Arthur didn't take much convincing.,PERSON,NOUN_CHUNK
+136,success,signal,erosion,A success in their case could signal an erosion in support for fossil fuel burning and extraction with more lawsuits of this kind ahead.,NOUN_CHUNK,NOUN_CHUNK
+137,The World Meteorological Organization,verified,record,"The World Meteorological Organization (WMO) on Tuesday verified the record, reported in the Siberian town of Verkhoyansk on 20 June last year.",ORG,NOUN_CHUNK
+138,greenhouse gases,cause,warming,"These greenhouse gases can cause further warming, and further thawing of the permafrost, in a vicious cycle known as positive feedback.",NOUN_CHUNK,NOUN_CHUNK
+139,humans,experience,catastrophic warming,"Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.",NOUN_CHUNK,NOUN_CHUNK
+140,Thwaites,dumping,50 billion tonnes,Already Thwaites is dumping 50 billion tonnes of ice into the ocean each year.,ORG,QUANTITY
+141,coming change,see,following ice jump,The coming change in status will probably see the following ice jump in speed to about 2km per year - the same as the current velocity recorded in the 80km-wide western sector.,NOUN_CHUNK,NOUN_CHUNK
+142,year ITGC project,putting,Thwaites,"Jointly funded by the US National Science Foundation and the UK's Natural Environment Research Council, the five-year ITGC project is putting Thwaites under unprecedented scrutiny.",NOUN_CHUNK,ORG
+143,teams,investigating,glacier behaviour,"Each Antarctic summer season, teams of scientists are investigating the glacier's behaviour in every way possible.",NOUN_CHUNK,NOUN_CHUNK
+144,The EU,tightened,EU restrictions,The EU has similarly tightened The EU restrictions.,ORG,NOUN_CHUNK
+145,plant,emit,more than seven million tonnes,"This plant alone will emit more than seven million tonnes of carbon dioxide every year!""Suzuki-San's point is a good one.",NOUN_CHUNK,QUANTITY
+146,Japan gas fired power stations,doing,lot,In a lot of resistance place Japan's gas-fired power stations have been doing a lot of overtime.,NOUN_CHUNK,NOUN_CHUNK
+147,Economically Japanese government,made,sense,Economically the Japanese government made sense.,NOUN_CHUNK,NOUN_CHUNK
+148,Prof Tomas Kaberger,create,financial difficulties,"Prof Tomas Kaberger, an expert on energy policy at Chalmers University in Sweden would create financial difficulties for electric power companies and then for banks and pension funds.",PERSON,NOUN_CHUNK
+149,Japan government,has,bigger ambitions,But Japan's government has much bigger ambitions than that.,NOUN_CHUNK,NOUN_CHUNK
+150,a sleek new Toyota Mirai,have,huge battery,"Unlike other electric cars, a sleek new Toyota Mirai doesn't have a huge battery under the floor.",PRODUCT,NOUN_CHUNK
+151,a sleek new Toyota Mirai,has,fuel cell,"Instead, a sleek new Toyota Mirai has a fuel cell under the bonnet, and hydrogen tanks under the back seat.",PRODUCT,NOUN_CHUNK
+152,Elon Musk,called,hydrogen cars,"Elon Musk has called hydrogen cars ""stupid"".",PERSON,NOUN_CHUNK
+153,First Minister Nicola Sturgeon,visited,the Highlands,First Minister Nicola Sturgeon visited the Highlands on Friday for an announcement on plans for a major offshore wind turbine tower factory.,PERSON,GPE
+154,The World Meteorological Organization,verified,record,"The World Meteorological Organization (WMO) on Tuesday verified the record, reported in the Siberian town of Verkhoyansk on 20 June last year.",ORG,NOUN_CHUNK
+155,greenhouse gases,cause,warming,"These greenhouse gases can cause further warming, and further thawing of the permafrost, in a vicious cycle known as positive feedback.",NOUN_CHUNK,NOUN_CHUNK
+156,humans,experience,catastrophic warming,"Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.",NOUN_CHUNK,NOUN_CHUNK
+157,Thwaites,dumping,50 billion tonnes,Already Thwaites is dumping 50 billion tonnes of ice into the ocean each year.,ORG,QUANTITY
+158,coming change,see,following ice jump,The coming change in status will probably see the following ice jump in speed to about 2km per year - the same as the current velocity recorded in the 80km-wide western sector.,NOUN_CHUNK,NOUN_CHUNK
+159,year ITGC project,putting,Thwaites,"Jointly funded by the US National Science Foundation and the UK's Natural Environment Research Council, the five-year ITGC project is putting Thwaites under unprecedented scrutiny.",NOUN_CHUNK,ORG
+160,teams,investigating,glacier behaviour,"Each Antarctic summer season, teams of scientists are investigating the glacier's behaviour in every way possible.",NOUN_CHUNK,NOUN_CHUNK
+161,The EU,tightened,EU restrictions,The EU has similarly tightened The EU restrictions.,ORG,NOUN_CHUNK
+162,plant,emit,more than seven million tonnes,"This plant alone will emit more than seven million tonnes of carbon dioxide every year!""Suzuki-San's point is a good one.",NOUN_CHUNK,QUANTITY
+163,Japan gas fired power stations,doing,lot,In a lot of resistance place Japan's gas-fired power stations have been doing a lot of overtime.,NOUN_CHUNK,NOUN_CHUNK
+164,Economically Japanese government,made,sense,Economically the Japanese government made sense.,NOUN_CHUNK,NOUN_CHUNK
+165,Prof Tomas Kaberger,create,financial difficulties,"Prof Tomas Kaberger, an expert on energy policy at Chalmers University in Sweden would create financial difficulties for electric power companies and then for banks and pension funds.",PERSON,NOUN_CHUNK
+166,Japan government,has,bigger ambitions,But Japan's government has much bigger ambitions than that.,NOUN_CHUNK,NOUN_CHUNK
+167,a sleek new Toyota Mirai,have,huge battery,"Unlike other electric cars, a sleek new Toyota Mirai doesn't have a huge battery under the floor.",PRODUCT,NOUN_CHUNK
+168,a sleek new Toyota Mirai,has,fuel cell,"Instead, a sleek new Toyota Mirai has a fuel cell under the bonnet, and hydrogen tanks under the back seat.",PRODUCT,NOUN_CHUNK
+169,Elon Musk,called,hydrogen cars,"Elon Musk has called hydrogen cars ""stupid"".",PERSON,NOUN_CHUNK
+170,First Minister Nicola Sturgeon,visited,the Highlands,First Minister Nicola Sturgeon visited the Highlands on Friday for an announcement on plans for a major offshore wind turbine tower factory.,PERSON,GPE
+171,UK,has,relatively ambitious emissions reduction targets,"UK, for example, has this relatively ambitious emissions reduction targets",GPE,NOUN_CHUNK
+172,countries,given,ways,The Covid-19 pandemic was given as an example for how countries can find ways to work together.,NOUN_CHUNK,NOUN_CHUNK
+173,Post news website,called,2070 pledge,"The First Post news website called the 2070 pledge a ""bold decision... without capitulating to the uncalled for bullying by the West"".",NOUN_CHUNK,NOUN_CHUNK
+174,political economic crisis,been,shadow,"But since the pandemic, there's been a rise in poverty and the political and economic crisis is casting a shadow over Brazil.",NOUN_CHUNK,NOUN_CHUNK
+175,People,have,immediate concerns,People have more immediate concerns.,NOUN_CHUNK,NOUN_CHUNK
+176,Russia,seen,Russia worst droughts,"Russia has seen one Russia worst droughts in decades this year, resulting in severe water shortages and electricity blackouts.",GPE,NOUN_CHUNK
+177,sanctions,exacerbated,problems,US sanctions and unsustainable domestic policies have only exacerbated such problems.,NOUN_CHUNK,NOUN_CHUNK
+178,Climate activists,sounded,alarm,"Climate activists, especially in the oil-producing Niger Delta region, have long sounded the alarm about the impact of oil drilling and gas flaring but there is little sign of any action from the government and the international oil firms.",NOUN_CHUNK,NOUN_CHUNK
+179,Environmental campaign group,says,illegal logging,Environmental campaign group Greenpeace says illegal logging - by both large and small companies - is leading to deforestation.,NOUN_CHUNK,NOUN_CHUNK
+180,threats,include,small scale subsistence agriculture,"Other threats include small-scale subsistence agriculture, clearing for charcoal and fuel, urban expansion and mining.",NOUN_CHUNK,NOUN_CHUNK
+181,President Biden,had,one in Rome on Sunday,President Biden also had one in Rome on Sunday.,PERSON,CARDINAL
+182,Private jets,produce,significantly emissions,Private jets generally produce significantly more emissions per passenger than commercial flights.,NOUN_CHUNK,NOUN_CHUNK
+183,US President Joe Biden,hosted,virtual climate summit,"In April, US President Joe Biden hosted a virtual climate summit for world leaders, at which some commitments were made.",PERSON,NOUN_CHUNK
+184,humans,experience,catastrophic warming,"Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.",NOUN_CHUNK,NOUN_CHUNK
+185,Climate change,has,different effects,Climate change has different effects in different areas of the world.,NOUN_CHUNK,NOUN_CHUNK
+186,Multiple independent teams,reached,result,Multiple independent teams of scientists have reached the same result - a spike in temperatures coinciding with the onset of the industrial era.,NOUN_CHUNK,NOUN_CHUNK
+187,Scientists,reconstruct,temperature fluctuations,Scientists can reconstruct temperature fluctuations even further back in time.,NOUN_CHUNK,NOUN_CHUNK
+188,Tree rings,record,signature,"Tree rings, ice cores, lake sediments and corals all record a signature of the past climate.",NOUN_CHUNK,NOUN_CHUNK
+189,models,explain,increases,Only when human factors are introduced can the models explain increases in temperature.,NOUN_CHUNK,NOUN_CHUNK
+190,groups,cast,doubt,"For many years, groups of so-called climate ""sceptics"" have cast doubt on the scientific basis of global warming.",NOUN_CHUNK,NOUN_CHUNK
+191,bowl,produce,climate warming greenhouse gases,Does a bowl of rice produce more climate warming greenhouse gases than a plate of chips?,NOUN_CHUNK,NOUN_CHUNK
+192,food,is,huge differences,"Knowing how and where your food is produced is also important, as the same food can have huge differences in environmental impact.",NOUN_CHUNK,NOUN_CHUNK
+193,Chocolate,produce,relatively high greenhouse gases,Chocolate and coffee originating from deforested rainforest produce relatively high greenhouse gases.,NOUN_CHUNK,NOUN_CHUNK
+194,climate friendly meat options,produce,greenhouse gases,"Even the most climate-friendly meat options still produce more greenhouse gases than vegetarian protein sources, like beans or nuts.",NOUN_CHUNK,NOUN_CHUNK
+195,Joseph Poore,assessed,effect,"University of Oxford researcher Joseph Poore, and Thomas Nemecek of the Agroecology and Environment Research Division in Zurich, Switzerland assessed the effect of these foods on climate-warming greenhouse gas emissions and the amount of land and fresh water used across all stages of University of Oxford researcher Joseph Poore, and Thomas Nemecek of the Agroecology and Environment Research Division in Zurich, Switzerland production, including processing, packaging, and transportation, but excluding the cooking process.",PERSON,NOUN_CHUNK
+196,President Putin,dismissed,risks,Until recently President Putin dismissed the risks posed by rising temperatures.,PERSON,NOUN_CHUNK
+197,Country,But,steel,"But if Country A then imports steel from Country B,",NOUN_CHUNK,NOUN_CHUNK
+198,Plants,absorb,up to a third,Plants and trees absorb up to a third of our CO2 emissions from the atmosphere each year.,NOUN_CHUNK,CARDINAL
+199,urban areas,recording,massive reductions,"In a short space of time, urban areas were recording massive reductions in a range of pollutants associated with internal combustion engines.",NOUN_CHUNK,NOUN_CHUNK
+200,Data,shows,marked reductions,Data collected by the UK's National Centre for Atmospheric Science shows marked reductions in nitrogen dioxide (NO2) and in particulate matter (PM2.5) across 10 cities.,NOUN_CHUNK,NOUN_CHUNK
+201,Lake Oroville,plays,key role,Lake Oroville plays a key role in northern California's complex water delivery system.,GPE,NOUN_CHUNK
+202,river systems,replenished by,reservoir,"Traditionally, Lake Oroville was replenished by meltwater from a thawing snowpack in surrounding mountains, whose river systems fed the reservoir.",NOUN_CHUNK,NOUN_CHUNK
+203,reservoir,reached,capacity,"the reservoir had reached capacity in February, rather than the middle of the year, as usually happened.",NOUN_CHUNK,NOUN_CHUNK
+204,local traders,noticed,visible drop,"As news of the low waters spread, local traders noticed a visible drop in tourist numbers.",NOUN_CHUNK,NOUN_CHUNK
+205,Areas,include,water supplies,"Areas of concern include water supplies, health, food security, droughts and floods, biodiversity.",NOUN_CHUNK,NOUN_CHUNK
