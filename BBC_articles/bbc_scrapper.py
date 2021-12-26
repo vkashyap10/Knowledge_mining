@@ -18,7 +18,6 @@ class WebMine():
         # initialize with already existing dataframe
         self.df = df
         
-    # private memebers: links
     def get_links(self,url,xpath):
         
         driver = webdriver.Chrome()
@@ -110,6 +109,12 @@ class WebMine():
         itr = 0
         for link in links:
             print("scraping: ",link)
+            
+            # check if link has already been scraped before
+            if link in self.df.values:
+                print("link already exists")
+                continue
+            
             # store attributes in a dict and append to df in the end
             dict_link = {}
             
@@ -207,6 +212,10 @@ if __name__ == "__main__":
     bbc.get_page_df(news_links)
 
     bbc.df = bbc.df[bbc.df.columns.drop(list(bbc.df.filter(regex='Unnamed')))]
+    
+    # drop duplicates
+    bbc.df = bbc.df.drop_duplicates(subset='page_url')
+    bbc.df.reset_index(drop=True, inplace=True)
 
     # saving the dataframe
     bbc.df.to_csv('bbc_df.csv')

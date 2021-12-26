@@ -43,7 +43,9 @@ def index():
         return res
     
     source = ColumnDataSource()
+    
     currArticles = selectedMovies()
+    
     source.data = dict(
             x = [d['index'] for d in currArticles],
             y = [d['text_sentiment'] for d in currArticles],
@@ -112,10 +114,6 @@ def index():
 
     inputs_column = column(*controls_array, width=320, height=1000)
     layout_row = row([ inputs_column, fig ])
-    
-#     url = "@url"
-#     taptool = fig.select(type=TapTool)
-#     taptool.callback = OpenURL(url=url)
 
     script, div = components(layout_row)
     return render_template(
